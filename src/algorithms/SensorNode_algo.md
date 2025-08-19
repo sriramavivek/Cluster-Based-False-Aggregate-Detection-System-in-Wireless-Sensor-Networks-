@@ -1,0 +1,1 @@
+# Pseudocode for Sensor Node
