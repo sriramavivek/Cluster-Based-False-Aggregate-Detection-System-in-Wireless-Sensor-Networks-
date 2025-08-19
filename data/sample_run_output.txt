@@ -1,1 +1,0 @@
-Sample output logs will be stored here.

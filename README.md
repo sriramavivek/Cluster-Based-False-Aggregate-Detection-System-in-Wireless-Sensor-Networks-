@@ -19,7 +19,7 @@ The project follows a hierarchical Wireless Sensor Network (WSN) model with **dy
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure 
 ```
 CBFADS-WSN/
 │
